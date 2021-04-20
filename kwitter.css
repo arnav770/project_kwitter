@@ -1,0 +1,38 @@
+body{
+    border-radius: 50px;
+    background: linear-gradient(#b5e997 0%, #fce59a 100%);
+}
+
+#h1{
+    font-family: cursive;
+    text-decoration: whitesmoke;
+    text-indent: 4px;
+    text-shadow: tomato;
+    font-style: italic;
+}
+
+#imgk{
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    border: turquoise;
+
+}
+
+#user_name{
+  width: 500px;
+  font-style: oblique;
+  font-family: cursive;
+border-radius: 50px;
+border: turquoise;
+border-width: 3px;
+  height: 50px;
+}
+#login_button{
+    border-radius: 50px;
+    border-width: 3px;
+    font-family: cursive;
+    border: tomato;
+    font-style: italic;
+}
+
